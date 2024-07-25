@@ -1,0 +1,48 @@
+nav{
+    background-color: rgb(71, 70, 70);
+    
+}
+
+.nav-link{
+    background-color: rgb(71, 70, 70);
+    color: white;
+    padding: 7px 15px;
+    border: 1px solid rgb(100, 99, 99);
+    margin: 2px 0px;
+}
+.nav-link:hover{
+    background-color: rgb(87, 87, 87);
+    
+}
+
+#bg{
+    background-image: url(https://wallpaper-house.com/data/out/7/wallpaper2you_198984.jpg);
+    height: 600px; 
+    opacity: 0.5;
+    /* position: sticky;
+    bottom: 10px; */
+    /* margin-top: 350px; */
+    /* margin-left: 630px; */
+}  
+
+#bg_h{
+    
+    /* margin-top: 500px;
+    margin-top: 350px;
+    margin-left: 630px;  */
+    color: white;
+    font-size: 25px; 
+}
+#bg_p{
+    margin-top: 330px;
+    margin-left: 605px;
+    color: white;
+    font-size: 25px;
+}
+.btn{
+    /* position: relative;
+    left:85px ; */
+    font-size: 20px;
+    padding: 3px 25px;
+    margin:10px 0px 15px 0px ;
+}
