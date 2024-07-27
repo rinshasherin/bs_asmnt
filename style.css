@@ -7,15 +7,18 @@
 
 nav{
     background-color: rgb(71, 70, 70);
+
     
 }
 
 .nav-link{
     background-color: rgb(71, 70, 70);
     color: white;
-    padding: 7px 15px;
     border: 1px solid rgb(100, 99, 99);
-    margin: 2px 0px;
+    margin: 5px 0px 5px 20px;
+    
+    
+
 }
 .nav-link:hover{
     background-color: rgb(87, 87, 87);
@@ -29,36 +32,29 @@ nav{
 #bg{
     background-image: url(https://wallpaper-house.com/data/out/7/wallpaper2you_198984.jpg);
     height:550px ;
-    /* width: ;  */
     opacity: 0.5;
     background-repeat: no-repeat;
-    /* position: sticky;
-    bottom: 10px; */
-    /* margin-top: 350px; */
-    /* margin-left: 630px; */
+    align-content: center;
+    text-align: center;
+    
 }  
 
 #bg>h1{
     
-    /* margin-top: 500px;
-    margin-top: 350px;
-    margin-left: 630px;  */
-    color: #fff;
-    font-size: 50px; 
+    color: white;
+    font-size: 60px; 
     text-transform: uppercase;
-    text-shadow: 2px 2px #000;
+    text-shadow: 3px 3px black;
+    letter-spacing: 5px;
     
 }
 #bg>p{
-    /* margin-top: 330px;
-    margin-left: 605px; */
-    color: white;
-    font-size: 25px;
 
+    font-size: 30px;
+    color: white;
 }
 .btn{
-    /* position: relative;
-    left:85px ; */
+    
     font-size: 20px;
     padding: 3px 25px;
     margin:10px 0px 15px 0px ;
@@ -72,9 +68,9 @@ nav{
     background-image: url(https://www.cadence-vc.com/wp-content/uploads/2021/12/scenary.png);
     height: 250px;
     align-content: center;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
-#service>h2{
+#service>h1{
     text-shadow: 2px 1px gainsboro;
     color: white;
     margin-top: 50px;
