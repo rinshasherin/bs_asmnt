@@ -24,10 +24,9 @@ nav{
     background-color: rgb(87, 87, 87);
     
 }
-/* .nav-link:visited{
-    background-color: rgb(87, 87, 87);
-    
-} */
+.card{
+    border: none;
+}
 
 #bg{
     background-image: url(https://wallpaper-house.com/data/out/7/wallpaper2you_198984.jpg);
@@ -68,7 +67,7 @@ nav{
     background-image: url(https://www.cadence-vc.com/wp-content/uploads/2021/12/scenary.png);
     height: 250px;
     align-content: center;
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 }
 #service>h1{
     text-shadow: 2px 1px gainsboro;
@@ -77,4 +76,17 @@ nav{
 }
 #service>P{
     color: white;
+}
+#bg2{
+    background-image: url(https://cdn.pixabay.com/photo/2016/07/30/00/03/winding-road-1556177_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .7;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+::-webkit-scrollbar{
+    visibility: hidden;
 }
