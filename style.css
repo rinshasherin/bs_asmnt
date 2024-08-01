@@ -58,6 +58,12 @@ nav{
     padding: 3px 25px;
     margin:10px 0px 15px 0px ;
 }
+.card{
+    border-radius: 0%;
+}
+.card>img{
+    border-radius: 0%;
+}
 .card-text{
     text-align: justify;
     
